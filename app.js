@@ -44,5 +44,5 @@
     <td>${change}</td>
 </tr>`
 
-   upd=setTimeout(()=>fetchPrice(ctype),100);
+   upd=setTimeout(()=>fetchPrice(ctype),100000000000);
   }
